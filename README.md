@@ -4,12 +4,12 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 
 ## Resources
 
-### Read or watch:
+### Read or watch
 
-* [RSA] (https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)
-* [How does HTTPS provide security?] (https://alx-intranet.hbtn.io/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
-* [Prime Factorization] (https://alx-intranet.hbtn.io/rltoken/kYixcru2uFRtLzb29NjiHg)
-* [Why RSA?] (https://alx-intranet.hbtn.io/rltoken/JM9Zrnja-XCQwm5kEzr_xA)
+* [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)
+* [How does HTTPS provide security?](https://alx-intranet.hbtn.io/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
+* [Prime Factorization](https://alx-intranet.hbtn.io/rltoken/kYixcru2uFRtLzb29NjiHg)
+* [Why RSA?](https://alx-intranet.hbtn.io/rltoken/JM9Zrnja-XCQwm5kEzr_xA)
 
 ## Requirements
 
